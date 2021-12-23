@@ -1,0 +1,14 @@
+{
+  "name": "cap_conjunto_refatoracoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ref_1_antes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
